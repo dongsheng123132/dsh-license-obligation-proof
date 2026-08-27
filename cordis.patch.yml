@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-license-obligation-proof
+      name: dsh-license-obligation-proof
+      config:
+        workspaceRoot: .

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dsh-license-obligation-proof": {
+      "command": "node",
+      "args": ["${pluginDir}/mcp-server.mjs"]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+# Security Policy
+
+This offline verifier never scans packages, reads source code, interprets licenses or makes legal decisions. It rejects secret-shaped values and raw/body/log/prompt/content, license-text and copyright-text fields. Inputs are capped at 4 MiB; paths are workspace-relative and symlink-safe; content-addressed writes are exclusive and verified by read-back. A closed verdict applies only to supplied evidence and does not authenticate receipts, prove the component set exhaustive or prove legal compliance. Report vulnerabilities through GitHub Security Advisories without attaching private compliance artifacts.
