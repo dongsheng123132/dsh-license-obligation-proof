@@ -1,20 +1,34 @@
 {
   "name": "dsh-license-obligation-proof",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Offline proof that supplied license obligations were delivered for a declared release",
-  "author": { "name": "dongsheng123132" },
+  "author": {
+    "name": "dongsheng123132"
+  },
   "homepage": "https://github.com/dongsheng123132/dsh-license-obligation-proof",
   "repository": "https://github.com/dongsheng123132/dsh-license-obligation-proof",
   "license": "MIT",
-  "keywords": ["deepseek-harness", "dsh", "license-obligations", "spdx", "compliance-evidence"],
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "license-obligations",
+    "spdx",
+    "compliance-evidence"
+  ],
   "interface": {
     "displayName": "DSH License Obligation Proof",
     "shortDescription": "Verify supplied compliance-artifact delivery.",
     "longDescription": "Checks hash-only component decisions and required NOTICE, license text, source-offer, source-bundle and modification-notice artifacts for exact delivery closure without scanning packages or interpreting licenses.",
     "developerName": "dongsheng123132",
     "category": "Developer Tools",
-    "capabilities": ["MCP tools", "DSH tools", "offline verification"],
-    "defaultPrompt": ["Verify this supplied license-obligation evidence without legal interpretation."]
+    "capabilities": [
+      "MCP tools",
+      "DSH tools",
+      "offline verification"
+    ],
+    "defaultPrompt": [
+      "Verify this supplied license-obligation evidence without legal interpretation."
+    ]
   },
   "mcpServers": "./.mcp.json"
 }
