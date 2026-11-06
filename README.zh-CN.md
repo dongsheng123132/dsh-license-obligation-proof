@@ -1,6 +1,6 @@
 # dsh-license-obligation-proof
 
-作者 / 维护者：He Fangsheng (贺方升 / 贺去病; Dosen)· [hequbing.com](https://www.hequbing.com)
+作者 / 维护者：He Fangsheng (贺方升 / 贺去病; also known as Dosen)· [hequbing.com](https://www.hequbing.com)
 
 离线、确定性的许可证义务闭合证据层：核验 supplied 发布决策要求的 NOTICE、许可证文本、源码提供、源码包或修改说明是否逐项交付。输入和报告只保留哈希、义务代码与有界元数据，不包含许可证正文、版权文字、包源码或秘密。
 
