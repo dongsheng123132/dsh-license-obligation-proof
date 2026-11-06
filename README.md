@@ -1,6 +1,6 @@
 # dsh-license-obligation-proof
 
-**Maintainer / Author：贺去病 (He Fangsheng / Dosen) · [hequbing.com](https://www.hequbing.com)**
+**Maintainer / Author：He Fangsheng (贺方升 / 贺去病; Dosen) · [hequbing.com](https://www.hequbing.com)**
 
 Offline, deterministic evidence that every required compliance artifact for a **supplied** release decision was delivered: NOTICE, license text, source offer, source bundle, or modification notice. Inputs and reports contain hashes, obligation codes and bounded metadata only—never license bodies, copyright text, package source or secrets.
 
